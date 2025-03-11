@@ -5,6 +5,10 @@
 
 This is a simple Python-based coffee machine program that allows customers to order beverages and maintainers to manage resources. The program supports authentication for maintainers and provides functionalities for ordering, payment processing, and inventory management.
 
+## Inspiration
+
+The idea for this project came from my experiences at the campus canteen. Every time I went to order coffee, it would take a while for the staff to process the order, take the money, and serve the drink. This delay made me think, as a technology student, I could build a system that streamlines the process and reduces wait times for customers. Additionally, I wanted to make the staff's work easier by automating the ordering and payment process, freeing them up to focus on other tasks. This is how the coffee machine program was born—combining convenience with technology to improve the coffee experience for everyone.
+
 ## Features
 
 - Customers can order coffee, make payments, and receive their drinks.
