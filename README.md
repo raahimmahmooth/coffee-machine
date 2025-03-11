@@ -59,3 +59,7 @@ The idea for this project came from my experiences at the campus canteen. Every 
 ## License
 
 This project is open-source and available for modification and distribution.
+
+## Getting Help
+
+If you have any questions or need further clarification, feel free to reach out to me via LinkedIn: [Raahim Mahmooth](https://www.linkedin.com/in/raahim-mahmooth/)
