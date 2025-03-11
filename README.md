@@ -1,4 +1,3 @@
-# coffee-machine
 # Coffee Machine Project
 
 ## Overview
